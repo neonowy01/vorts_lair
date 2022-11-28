@@ -1,0 +1,114 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "ModelModifierList"
+				children = 
+				[
+					{
+						_class = "ModelModifier_Translate"
+						translation = [ 0.0, 0.0, 1.5 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = ""
+						surface_prop = "prop.flesh_alien"
+						collision_prop = "default"
+						radius = 2.378145
+						point0 = [ 0.192831, 0.18346, 10.637112 ]
+						point1 = [ 0.192831, 0.018277, 1.33843 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						name = "_copy"
+						parent_bone = ""
+						surface_prop = "prop.flesh_alien"
+						collision_prop = "default"
+						radius = 1.827216
+						point0 = [ 0.192831, -0.574293, 19.5431 ]
+						point1 = [ 0.192831, 0.260773, 12.85078 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						name = "_copy_copy"
+						parent_bone = ""
+						surface_prop = "prop.flesh_alien"
+						collision_prop = "default"
+						radius = 1.373167
+						point0 = [ 0.192831, 1.29251, 21.3332 ]
+						point1 = [ 0.192831, -1.05589, 19.559099 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						name = "_copy_copy_copy"
+						parent_bone = ""
+						surface_prop = "prop.flesh_alien"
+						collision_prop = "default"
+						radius = 0.944801
+						point0 = [ 0.192831, 5.151807, 20.631554 ]
+						point1 = [ 0.192831, 1.56127, 21.5732 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						name = "_copy_copy_copy1"
+						parent_bone = ""
+						surface_prop = "prop.flesh_alien"
+						collision_prop = "default"
+						radius = 0.554134
+						point0 = [ 0.192831, 5.62045, 20.4779 ]
+						point1 = [ 0.192831, 6.84739, 16.427999 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						name = "_copy_copy_copy1_copy"
+						parent_bone = ""
+						surface_prop = "prop.flesh_alien"
+						collision_prop = "default"
+						radius = 0.273637
+						point0 = [ 0.192831, 6.99947, 16.0973 ]
+						point1 = [ 0.192831, 5.769274, 13.34166 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						name = "_copy_copy_copy1_copy_copy"
+						parent_bone = ""
+						surface_prop = "prop.flesh_alien"
+						collision_prop = "default"
+						radius = 0.273637
+						point0 = [ 0.192831, 5.58592, 13.2061 ]
+						point1 = [ 0.192831, 5.4305, 10.9862 ]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/xen_tree.fbx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = "static_prop_model"
+		primary_associated_entity = "prop_static"
+		anim_graph_name = ""
+	}
+}

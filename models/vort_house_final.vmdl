@@ -1,0 +1,105 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models\\dmx\\mesh\\vort_house_final.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						name = "back"
+						parent_bone = ""
+						surface_prop = "xen_foliage_impact"
+						collision_prop = "default"
+						origin = [ 60.0, 0.0, 60.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 8.0, 160.0, 120.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "left"
+						parent_bone = ""
+						surface_prop = "xen_foliage_impact"
+						collision_prop = "default"
+						origin = [ 0.0, 76.0, 60.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 128.0, 8.0, 120.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "right"
+						parent_bone = ""
+						surface_prop = "xen_foliage_impact"
+						collision_prop = "default"
+						origin = [ 0.0, -76.0, 60.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 128.0, 8.0, 120.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "top"
+						parent_bone = ""
+						surface_prop = "xen_foliage_impact"
+						collision_prop = "default"
+						origin = [ 0.0, 0.0, 116.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 128.0, 160.0, 8.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "front_left"
+						parent_bone = ""
+						surface_prop = "xen_foliage_impact"
+						collision_prop = "default"
+						origin = [ -60.0, 52.0, 60.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 8.0, 56.0, 120.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "front_right"
+						parent_bone = ""
+						surface_prop = "xen_foliage_impact"
+						collision_prop = "default"
+						origin = [ -60.0, -52.0, 60.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 8.0, 56.0, 120.0 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						name = "front_top"
+						parent_bone = ""
+						surface_prop = "xen_foliage_impact"
+						collision_prop = "default"
+						origin = [ -60.0, 0.0, 96.0 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 8.0, 48.0, 48.0 ]
+					},
+				]
+			},
+		]
+		model_archetype = "static_prop_model"
+		primary_associated_entity = "prop_static"
+		anim_graph_name = ""
+	}
+}
