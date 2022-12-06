@@ -24,6 +24,7 @@ function spawn(npc, position)
 			end
 	end
 	finalNpc:SetOrigin(realPos)
+	local particleID = ParticleManager:CreateParticle("particles/vortigaunt_fx/vortigaunt_charge_warmup.vpcf",PATTACH_ABSORIGIN,finalNpc)
 end
 
 
