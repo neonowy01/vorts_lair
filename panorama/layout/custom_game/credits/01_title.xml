@@ -1,0 +1,10 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/custom_game/credits.css" />
+	</styles>
+
+	<Panel class="Text">
+		<Label class="Text01" text="Vorts' Lair"/>
+		<Image src="file://{resources}/images/custom_game/eye.png"/>
+	</Panel>
+</root>

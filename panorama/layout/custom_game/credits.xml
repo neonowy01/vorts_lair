@@ -1,0 +1,16 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/custom_game/credits.css" />
+	</styles>
+
+	<Panel class="Text">
+		<Label class="Text01" text="Vorts' Lair"/>
+		<Label class="Text02" text="Made By Neon"/>	
+		<Panel class="PlaytestersCard">
+			<Label class="CardTitle" text="Playtesters"/>
+			<Label class="playtester1" text="Skebulba"/>
+			<Label class="playtester2" text="GmanChewing"/>
+		</Panel>
+		<Label class="Text04" text="Thanks for playing!!"/>
+	</Panel>
+</root>

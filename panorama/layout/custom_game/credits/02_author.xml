@@ -1,0 +1,9 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/custom_game/credits.css" />
+	</styles>
+
+	<Panel class="Text">
+		<Label class="Text02" text="Made By Neon"/>	
+	</Panel>
+</root>
