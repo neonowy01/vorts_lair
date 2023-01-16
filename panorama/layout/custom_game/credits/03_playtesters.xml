@@ -7,7 +7,8 @@
 		<Panel class="PlaytestersCard">
 			<Label class="CardTitle" text="Playtesters"/>
 			<Label class="playtester1" text="Skebulba"/>
-			<Label class="playtester2" text="GmanChewing"/>
+			<Label class="playtester2"  text="GmanChewing"/>
+			<Label class="playtester3"  text="Sibbo"/>
 		</Panel>
 	</Panel>
 </root>
