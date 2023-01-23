@@ -4,8 +4,8 @@
 	</styles>
 
 	<Panel class="Text">
-		<Label class="Text01" text="Vorts' Lair"/>
-		<Label class="Text02" text="Made By Neon"/>	
+		<Label class="Text01" text="#vorts_lair_Credits_Title"/>
+		<Label class="Text02" text="#vorts_lair_Credits_Author"/>	
 		<Panel class="PlaytestersCard">
 			<Label class="CardTitle" text="Playtesters"/>
 			<Label class="playtester1" text="Skebulba"/>

@@ -38,31 +38,11 @@
 	text-align: center;
 }
 
-.playtester1{
+.playtesters{
 	width:100%;
 	flow-children:down;
 	text-align:center;
 }
-
-.playtester2{
-	width:100%;
-	flow-children:down;
-	text-align:center;
-}
-
-.playtester3{
-	width:100%;
-	flow-children:down;
-	text-align:center;
-}
-
-#playtesterId
-{
-	width:100%;
-	flow-children:down;
-	text-align:center;
-}
-
 
 .Text04{
 	width:100%;

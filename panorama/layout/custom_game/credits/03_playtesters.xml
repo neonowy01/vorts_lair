@@ -3,12 +3,10 @@
 		<include src="file://{resources}/styles/custom_game/credits.css" />
 	</styles>
 
-	<Panel class="Text">
+	<ClientUIDialogPanel class="Text">
 		<Panel class="PlaytestersCard">
 			<Label class="CardTitle" text="Playtesters"/>
-			<Label class="playtester1" text="Skebulba"/>
-			<Label class="playtester2"  text="GmanChewing"/>
-			<Label class="playtester3"  text="Sibbo"/>
+			<Label class="playtesters" text="Skebulba\nGmanChewing\nSibbo"/>
 		</Panel>
-	</Panel>
+	</ClientUIDialogPanel>
 </root>

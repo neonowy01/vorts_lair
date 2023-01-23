@@ -3,7 +3,7 @@
 		<include src="file://{resources}/styles/custom_game/credits.css" />
 	</styles>
 
-	<Panel class="Text">
+	<ClientUIDialogPanel class="Text">
 		<Label class="Text04" text="Thanks for playing!!"/>
-	</Panel>
+	</ClientUIDialogPanel>
 </root>
