@@ -11,9 +11,9 @@ Scripts need to be put in your addon's game folder *steamapps\common\Half-Life A
 
 ### v1.2.2
 Changes:
--Improved the logic of giving the player the vort energy at the start of the encounter in sewers,
--Changed the player and enemy covers in the Strider arena,
--Added sentry points for the Suppressors in Strider arena,
++ Improved the logic of giving the player the vort energy at the start of the encounter in sewers,
+- Changed the player and enemy covers in the Strider arena,
+- Added sentry points for the Suppressors in Strider arena,
 
 ### v1.2.1
 Changes:
@@ -24,26 +24,26 @@ Changes:
 
 ### v1.2
 Changes:
--Behind-the-scenes cleaning and optimization. Source files available.
--Lighting improvements.
--Improved custom models.
--Xen section has been moved to a separate level.
--Loop points were added to chosen musics.
--New end credits made with panorama.
--Improved npcs behaviour during fights.
--Balanced ammo.
--Added more resin. There is 55 now overall on the map.
--Polished the circuit puzzle.
--New xen portal model.
--Improved boomers.
--Steam Audio improvements.
--Added a fix for disabled AI bug.
--Added a 3D Skybox,
--Reduced the amount of multitool puzzles.
--Changed how the low gravity is handled on the xen maps. The gravity won't stay low on other maps you play after Vorts' Lair.
+- Behind-the-scenes cleaning and optimization. Source files available.
+- Lighting improvements.
+- Improved custom models.
+- Xen section has been moved to a separate level.
+- Loop points were added to chosen musics.
+- New end credits made with panorama.
+- Improved npcs behaviour during fights.
+- Balanced ammo.
+- Added more resin. There is 55 now overall on the map.
+- Polished the circuit puzzle.
+- New xen portal model.
+- Improved boomers.
+- Steam Audio improvements.
+- Added a fix for disabled AI bug.
+- Added a 3D Skybox,
+- Reduced the amount of multitool puzzles.
+- Changed how the low gravity is handled on the xen maps. The gravity won't stay low on other maps you play after Vorts' Lair.
 
 Strider Arena changes:
--New covers for the player and combine soldiers.
--New npc spawning system based on vscript.
--Improved npcs behaviour.
--Added logic for manhacks.
+- New covers for the player and combine soldiers.
+- New npc spawning system based on vscript.
+- Improved npcs behaviour.
+- Added logic for manhacks.
