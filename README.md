@@ -11,16 +11,16 @@ Scripts need to be put in your addon's game folder *steamapps\common\Half-Life A
 
 ### v1.2.2
 Changes:
-+ Improved the logic of giving the player the vort energy at the start of the encounter in sewers,
+- Improved the logic of giving the player the vort energy at the start of the encounter in sewers,
 - Changed the player and enemy covers in the Strider arena,
 - Added sentry points for the Suppressors in Strider arena,
 
 ### v1.2.1
 Changes:
--More lighting improvements.
--Added a fire sound near the vort campfire
--Strider Arena: Changed enemy covers.
--Ammo balancing
+- More lighting improvements.
+- Added a fire sound near the vort campfire
+- Strider Arena: Changed enemy covers.
+- Ammo balancing
 
 ### v1.2
 Changes:
