@@ -9,6 +9,11 @@ Scripts need to be put in your addon's game folder *steamapps\common\Half-Life A
 
 ## Some patch notes:
 
+### v1.2.3
+Changes:
++ Added clips over the lockers in Strider Arena so the player won't stand on them accidently and get destroyed by the enemies,
++ Fixed a bug where the player is not correctly teleporting to the credits area if they have moved during the teleporting.
+
 ### v1.2.2
 Changes:
 + Improved the logic of giving the player the vort energy at the start of the encounter in sewers,
